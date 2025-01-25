@@ -1,4 +1,4 @@
-# Server Mentis Boilerplate
+# Node Server Boilerplate
 
 This is a server boilerplate built with TypeScript and Fastify, suitable for a REST API project. It integrates various tools for efficient development, server-side functionality, and database operations.
 Tools and Libraries Used
